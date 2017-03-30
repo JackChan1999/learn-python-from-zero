@@ -20,7 +20,7 @@ Python在编程新手中变得越来越流行。3年前，Mark Guzdial贴出一�
 
 结果如图表所示，纵坐标之和是超过39的，因为有些学校既提供了CS0，也提供了CS1。
 
-![](http://cacm.acm.org/system/assets/0001/6451/Top39-700.2.png)
+![](../assets/python.png)
 
 ## 结果讨论
 
