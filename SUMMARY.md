@@ -61,7 +61,7 @@
    * [Import 模块](200/223.md)
    * [模块的加载](200/224.md)
    * [私有和专有](200/225.md)
-   * [折腾一下目录: os.path.<attribute>](200/226.md)
+   * [折腾一下目录: os.path.&lt;attribute>](200/226.md)
 * [第三部分 昨夜西风，亭台谁登](300/README.md)
    * [网站的结构：网站组成、MySQL数据库的安装和配置、MySQL的运行](300/301.md)
    * [通过Python连接数据库：安装python-MySQLdb，连接MySQL](300/302.md)
